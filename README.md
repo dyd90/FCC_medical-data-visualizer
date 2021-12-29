@@ -1,3 +1,7 @@
+### Problem statement below. Project contains Darian's solution to it.
+
+Please find more on FCC website: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
+
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
